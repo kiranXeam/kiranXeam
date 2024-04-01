@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiranXeam
+- 👋 Hi, I’m kiran
 - 👀 I’m a Developer
 - 🌱 Grooming code </> 
 - 💞️ Tech enthusiast #opensource
