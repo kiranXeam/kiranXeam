@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kiran
 - 👀 I’m a Developer
-- 🌱 Grooming code </> 
+- 🌱 Grooming coder  </> 
 - 💞️ Tech enthusiast #opensource
 - 📫 Ping me kiran.kumar@eambussiness.in
 - 😄 Pronouns: kee
