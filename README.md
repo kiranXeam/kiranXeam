@@ -2,7 +2,7 @@
 - 👀 I’m a Developer
 - 🌱 Grooming coder  </> 
 - 💞️ Tech enthusiast #opensource
-- 📫 Ping me kiran.kumar@eambussiness.in
+- 📫 Ping me kiran.kumar@eambusiness.in
 - 😄 Pronouns: kee
 - ⚡ Fun fact A Better dilly-dallier
 
